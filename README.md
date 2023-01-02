@@ -1,6 +1,6 @@
 #GBABlank
 
-This is a blank starting project for a GBA-style game.
+This is a blank starting project for a GBA-style game..
 
 Uses bfontjs and bfontjs-imui.  Most recent copies of those libs should be downloaded to the lib folder (not included in repo).
 
